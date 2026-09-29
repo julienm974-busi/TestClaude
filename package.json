@@ -1,0 +1,22 @@
+{
+  "name": "testclaude",
+  "version": "1.0.0",
+  "description": "Projet Test de Claude IA dans une démarche de reprise d'activité dans l'IT avec l'accompagnement de Dominique Jorge société Ecobeez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienm974-busi/TestClaude.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/julienm974-busi/TestClaude/issues"
+  },
+  "homepage": "https://github.com/julienm974-busi/TestClaude#readme"
+}
